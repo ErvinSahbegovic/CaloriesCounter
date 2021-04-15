@@ -2,5 +2,5 @@
 
 
 echo "idemo bebi";
-echo "ajdeadi ";
+echo "ajdi jedi gonva ";
 ?>
