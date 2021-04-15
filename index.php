@@ -1,6 +1,5 @@
 <?php
 
+echo "Dokaz da treter radi";
 
-echo "idemo bebi";
-echo "ajdi jefvdgfdi gonva ";
 ?>
